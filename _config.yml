@@ -1,0 +1,28 @@
+name: alexanderpoelmans
+favicon: null
+layout_spectrum: 0.8496031053364277
+typography_spectrum: 0.7648829370737076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8401487662922591
+  lightness: 0.9757659558672458
+  saturation: 0.18313793162815273
+  rhythmicContrast: 0.7159503728616983
+purpose: []
